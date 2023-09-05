@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+
 <h1 align="center">Hi 👋, I'm UTKARSH</h1>
 <h3 align="center">I'm into programming and problem solving.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fhackers-matrix-coding-4gtz6lwrja1y76g1.html&psig=AOvVaw3dk3hQRH5F6pkyS80rLArF&ust=1693978056797000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICN9pfekoEDFQAAAAAdAAAAABBJ">
