@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm UTKARSH</h1>
 <h3 align="center">I'm into programming and problem solving.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2y8Ej2y691i0IkafgylJEc&ust=1693978705608000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCT_8rgkoEDFQAAAAAdAAAAABAD](https://tenor.com/view/coding-gif-18657810)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2y8Ej2y691i0IkafgylJEc&ust=1693978705608000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCT_8rgkoEDFQAAAAAdAAAAABAD](https://tenor.com/view/coding-gif-18657810)">
 - 🔭 I’m currently working on **Natural Language Processing**
 
 - 🌱 I’m currently learning **Machine Learning**
