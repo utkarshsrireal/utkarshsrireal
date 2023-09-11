@@ -18,8 +18,8 @@
 <a href="https://linkedin.com/in/utkarsh-srivastava-94a277200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-srivastava-94a277200" height="30" width="40" /></a>
 <a href="https://kaggle.com/reelmantle007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="reelmantle007" height="30" width="40" /></a>
 <a href="https://instagram.com/reelmantle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reelmantle" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@utkarshsrireal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@utkarshsrireal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/reelmantle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/reelmantle/" height="30" width="40" /></a>
+<a href="https://medium.com/@utkarshsrireal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@utkarshsrireal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reelmantle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/reelmantle/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
